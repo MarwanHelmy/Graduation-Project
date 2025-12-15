@@ -1,0 +1,5 @@
+SINR Category,SINR Range (dB),Number of Data Points,Relative Frequency (%)
+red,< 5,36309,23.19
+yellow,5 to 10,9502,6.07
+green,10 to 20,8772,5.6
+blue,>= 20,102017,65.14
